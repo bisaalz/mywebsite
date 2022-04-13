@@ -1,10 +1,11 @@
 .main-nav-ul
 {
-    display: inline-block;
     background-color: #EA5506;
+    list-style: none;
 }
 
 .main-nav-ul li
 {
+    display: inline-block;
   color: #fff;
 }
