@@ -1,0 +1,10 @@
+.main-nav-ul
+{
+    display: inline-block;
+    background-color: #EA5506;
+}
+
+.main-nav-ul li
+{
+  color: #fff;
+}
