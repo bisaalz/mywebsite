@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="d-flex">
     Hello world
+    Nepal
       <Header />
     </div>
   );
