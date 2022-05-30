@@ -7,6 +7,7 @@ function App() {
     <div className="d-flex">
     Hello world
     Nepal
+    Ghimire
     Bishal
       <Header />
     </div>
