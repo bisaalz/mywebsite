@@ -8,9 +8,13 @@ function App() {
     Hello world
     Nepal
     Ghimire
+<<<<<<< HEAD
     Bishal
 
     changes
+=======
+    BishalvsdSDsfdsf
+>>>>>>> newbranch
       <Header />
     </div>
   );
